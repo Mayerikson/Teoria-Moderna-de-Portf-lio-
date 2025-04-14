@@ -21,7 +21,11 @@ O objetivo principal do projeto é construir uma carteira de investimentos compo
 
 
 📘 Conceitos: Markowitz e Índice de Sharpe
+
+
 Markowitz (Teoria Moderna do Portfólio)
+
+
 Harry Markowitz introduziu a ideia de que uma carteira de ativos deve ser construída considerando diversificação: o risco de um portfólio pode ser reduzido se os ativos não forem perfeitamente correlacionados. A ideia central é:
 
 Cada ativo possui retorno esperado e risco (desvio padrão);
